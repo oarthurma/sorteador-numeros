@@ -6,4 +6,9 @@ function sortear() {
   alert(`Quantidade: ${quantidade}`);
   alert(`Do número: ${de}`);
   alert(`Até o número: ${ate}`);
+
+}
+
+function obterNumeroAleatorio(min, max) {
+
 }

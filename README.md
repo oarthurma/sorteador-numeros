@@ -1,8 +1,6 @@
 # 🎲 Sorteador de Números
 
-Projeto criado para praticar lógica de programação com JavaScript.
-
-Baseado em um curso de lógica da Alura.
+Projeto criado para praticar lógica de programação com JavaScript, baseado em um curso da Alura.
 
 ## 🚀 Funcionalidades
 

@@ -11,11 +11,10 @@ function sortear() {
     sorteados.push(numero);
   }
 
-  alert(sorteados);
+  let resultado = document.getElementById('resultado');
 }
 
 function obterNumeroAleatorio(min, max) {
   return Math.floor(Math.random() * (max - min + 1)) + min;
 }
 
-// 8:03

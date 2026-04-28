@@ -4,12 +4,13 @@ Projeto criado para praticar lógica de programação com JavaScript, baseado em
 
 ## 🚀 Funcionalidades
 
-- Sorteio de números aleatórios
-- Definição de quantidade
-- Intervalo mínimo e máximo
-- Prevenção de números repetidos
+- Sorteio de números aleatórios sem repetição
+- Definição de quantidade de números
+- Intervalo mínimo e máximo personalizável
+- Validação de entradas inválidas
+- Prevenção de loop infinito em intervalos insuficientes
 - Exibição dinâmica dos resultados na página
-- Reinicialização completa do sorteio
+- Botão de reinicialização da aplicação
 
 ## 🛠️ Tecnologias
 
@@ -23,18 +24,14 @@ Abra o arquivo `index.html` no navegador.
 
 ## 📚 Aprendizados
 
-Durante este projeto, pratiquei e reforcei conceitos fundamentais de lógica de programação e desenvolvimento web:
-
-- Manipulação do DOM com `document.getElementById()`
-- Captura e tratamento de valores de inputs
-- Conversão de strings para números com `parseInt()`
-- Criação e utilização de funções
+- Manipulação de elementos com `document.getElementById()`
+- Captura e validação de inputs do usuário
+- Conversão de valores com `parseInt()`
 - Geração de números aleatórios com `Math.random()` e `Math.floor()`
-- Uso de estruturas de repetição (`for` e `while`)
-- Manipulação de arrays com `push()` e `includes()`
-- Prevenção de valores duplicados em sorteios
-- Atualização dinâmica de conteúdo com `innerHTML`
-- Manipulação de classes CSS com `classList.add()`, `remove()` e `contains()`
-- Implementação de lógica de reset da aplicação
-- Organização de código em funções reutilizáveis
-- Separação de responsabilidades entre HTML, CSS e JavaScript
+- Uso de Template Strings para exibição dinâmica
+- Estruturas de repetição (`for` e `while`)
+- Uso de arrays e métodos como `push()` e `includes()`
+- Condicionais (`if/else`) para validações e controle de fluxo
+- Alteração dinâmica de conteúdo com `innerHTML`
+- Manipulação de classes CSS com `classList`
+- Implementação de lógica de reinicialização da aplicação
